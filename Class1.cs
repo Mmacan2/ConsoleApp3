@@ -8,6 +8,5 @@ namespace ConsoleApp3
 {
     internal class Class1
     {
-        public void conflictMetoda() { }
     }
 }
